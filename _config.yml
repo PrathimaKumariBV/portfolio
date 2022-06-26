@@ -1,6 +1,22 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: <p align="center"> Prathima Kumari B V </p>
+logo: /assets/img/Photo.png
+
+description:
+  <p align="center">
+  <a href="asset/Prathima-CV.pdf">Resume</a> |
+  <a href="https://https://www.linkedin.com/in/prathima-kumari-bv/">LinkedIn</a> |
+  <a href="https://github.com/PrathimaKumariBV">GitHub</a>
+  
+  <br>   
+      •	Currently pursuing Advanced Certificate Program in Data Science, Machine Learning and Deep Learning in Upgrad
+      •	Successfully completed the <a href ="https://olympus1.mygreatlearning.com/course_certificate/QDOWBJJD">“Python Fundamentals for Beginners”</a> certification by Great Learning Academy.
+      • Worked as a lecturer at Oxford College of Engineering from Jan 2012 to Jan 2013 
+      •	Attended Infosys Campus Connect Program on May 2012 and completed  successfully a batch on this program.
+      •	Worked as a lecturer in Computer Science at Mahajana Post Graduation College, Mysore; from September 2009 to June 2010, 
+      •	Worked at Asterix Technologies for 6 months to do academic project in internship.      
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
