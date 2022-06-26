@@ -1,123 +1,37 @@
----
-layout: default
----
+## Portfolio
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+### Project 1:
 
-[Link to another page](./another-page.html).
+**Title			         :**	Contact Management System
 
-There should be whitespace between paragraphs.
+**Description		     :**	Using this project any organization can store and manage their contact information and all event details of each employee in central  location; easily filter and track contacts and employee events. Company can dynamically create follow-up sequences for their contacts and                            maintain history which automates companies work. 
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+**System environment :**	Windows XP, ASP.NET(C#), MS SQL Server, Ajax Control Tool-kit.
 
-# Header 1
+**Project duration	 :**	Five months
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+**Team Size		       :**	Single.
 
-## Header 2
+**Industry Name	     :**	Asterix Technologies, Jayanagar 7th block, JSS Circle, Bangalore.
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+### Project 2:
 
-### Header 3
+**Title			          :**	Palmprint Verification Using Log-Gabor Filter
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+**Description		      :**	Project involved texture based feature extraction techniques for person verification.
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+**System environment	:**	Windows XP, MATLAB 7.1
 
-#### Header 4
+**Project duration	  :**	Five months
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+**Team Size		        :**	Two members
 
-##### Header 5
+### Project 3:
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+### Fraud Detection
 
-###### Header 6
+Fraud detection is a set of processes and analyses that allow businesses to identify and prevent unauthorized financial activity. This can include fraudulent credit card transactions, identify theft, cyber hacking, insurance scams, and more.
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/PrathimaKumariBV/fraud_detection)
 
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+<center><img src="assets/img/Fraud_detection.jpg"/></center>
