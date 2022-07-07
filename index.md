@@ -1,5 +1,16 @@
 ## Portfolio
 
+## Data Science Portfolio
+
+### Project 1:
+### Lending Club Case Study
+
+ Assuming that we are working for Lending Club (LC) which is a marketplace for personal loans that matches borrowers who are seeking a loan with investors looking to lend money and make a return. When the company receives the loan application, it has to make a decision for loan approval based on applicant's profile.
+
+[![View on GitHub]](https://github.com/PrathimaKumariBV/Lending_Club_Case_Study)
+
+## Academic Projects
+
 ### Project 1:
 
 **Title			         :**	Contact Management System
@@ -26,12 +37,4 @@
 
 **Team Size		        :**	Two members
 
-### Project 3:
 
-### Fraud Detection
-
-Fraud detection is a set of processes and analyses that allow businesses to identify and prevent unauthorized financial activity. This can include fraudulent credit card transactions, identify theft, cyber hacking, insurance scams, and more.
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/PrathimaKumariBV/fraud_detection)
-
-<center><img src="assets/img/Fraud_detection.jpg"/></center>
