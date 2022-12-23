@@ -10,6 +10,18 @@
  
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/PrathimaKumariBV/Lending_Club_Case_Study)
 
+### Project 2:
+### Telecom churn Case Study
+In the telecom industry, customers are able to choose from multiple service providers and actively switch from one operator to another. To reduce customer churn, telecom companies need to predict which customers are at high risk of churn.The main goal of this case study is to analyze customer-level data of a leading telecom firm, build predictive models to identify customers at high risk of churn.By knowing this, the company can take action steps such as providing special plans, discounts on recharge etc.
+
+[![View on GitHub]](https://github.com/PrathimaKumariBV/Telecom_Churn_CaseStudy/blob/main/Telecom_Churn_CaseStudy_Final.ipynb)
+
+### Project 3:
+### Melanoma detection Assignment
+Melanoma is a type of cancer that can be deadly if not detected early. It accounts for 75% of skin cancer deaths. The objective of the project is to build a CNN based model which can accurately detect melanoma.A solution that can evaluate images and alert dermatologists about the presence of melanoma has the potential to reduce a lot of manual effort needed in diagnosis.
+
+[![View on GitHub]](https://github.com/PrathimaKumariBV/Melonama_Assignment)
+
 ## Academic Projects
 
 ### Project 1:
